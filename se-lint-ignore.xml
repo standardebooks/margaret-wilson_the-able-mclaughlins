@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-14.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>No need for comma before "he said" in this odd sentence because it's a list of the words the character said, not dialogue.</reason>
 		</ignore>
 	</file>
